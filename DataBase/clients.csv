@@ -1,0 +1,11 @@
+idclients,login,password,name,number,tariff,beginningDate,endingDate,balance
+1,diyorka,diyor01,Diyor,0557828600,Super+,"19.05.2022 12:01","18.06.2022 12:01",1006176
+2,erba,erba01,Erbol,0777001122,Super,"15.05.2022 13:03","14.06.2022 13:03",1000600
+3,tariel,tariel01,Tariel,5215,Regular,"15.05.2022 14:48","14.06.2022 14:48",1000000
+17,aziz,azizik,Aziz,252,,,,10000
+19,Aidar,aidar01,Aidar,21512,,,,10000
+23,kolya,kolya01,Kolya,0111222333,Free,"15.05.2022 20:00","14.06.2022 20:00",1000
+27,diyor,di,di,557888282,Regular+,"15.05.2022 23:42","14.06.2022 23:42",0
+28,erba,erba,Erbol2,555555555,"Just Call","15.05.2022 23:43","14.06.2022 23:43",0
+29,danya,sdfsd,danil,535236,Super,"15.05.2022 23:45","14.06.2022 23:45",1000
+30,tariel,4508,Tarielchik,0700024498,Super+,"19.05.2022 12:30","18.06.2022 12:30",1000000

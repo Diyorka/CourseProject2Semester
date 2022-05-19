@@ -1,0 +1,6 @@
+idtariffs,name,price,internet,duration,calls
+1,Super,100,50gb,month,infinite
+2,Regular,200,20gb,month,200min
+3,Super+,400,infinite,month,infinite
+4,"Just Call",100,5gb,month,infinite
+5,Regular+,250,30gb,month,infinite
